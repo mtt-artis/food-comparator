@@ -9,3 +9,5 @@ Based on :
 
 Data comes from [openfoodfact](https://fr.openfoodfacts.org/data)
 
+![screenshot](/assets/screenshot.PNG)
+
